@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phoowaiko&label=Profile%20views&color=0e75b6&style=flat" alt="phoowaiko" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phoowaiko" alt="phoowaiko" /></a> </p>
-
 - 🌱 I’m currently learning **Next.js,**
 
 - 👯 I’m looking to collaborate on **excellent team.**
@@ -26,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phoowaiko&show_icons=true&locale=en&layout=compact" alt="phoowaiko" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phoowaiko&show_icons=true&locale=en" alt="phoowaiko" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phoowaiko&" alt="phoowaiko" /></p>
